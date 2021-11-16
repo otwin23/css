@@ -1,0 +1,34 @@
+.rounded img{
+	border-radius: 15px;
+	width: 100%px; height: 225px;
+}
+.google a{
+	margin: 563px;
+	font-size: 50px;
+	background-image: linear-gradient(to right, green , red , yellow);
+}
+.email a{
+	margin: 450px;
+	font-size: 50px;
+	background-image: linear-gradient(to right, green , red , yellow);
+}
+.orange p{
+	text-align: center;
+	color: orange;
+	font-size: 30px;
+}
+.brown p{
+	text-align: center;
+	color: brown;
+	font-size: 30px;
+}
+.purple p{
+	text-align: center;
+	color: purple;
+	font-size: 30px;
+}
+.blue p{
+	text-align: center;
+	color: blue;
+	font-size: 30px;
+}
